@@ -1,0 +1,2 @@
+INSERT INTO users (full_name, email, password_hash, role, active)
+VALUES ('System Admin', 'admin@mentastudio.co.tz', 'HASH_YAKO_HAPA', 'SUPERADMIN', true);

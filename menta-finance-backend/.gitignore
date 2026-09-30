@@ -1,0 +1,23 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### VS Code ###
+.vscode/
+
+### Mac/Linux OS ###
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Environment secrets - USIWAHI kuweka hii kwenye git ###
+.env
+*.env
+application-local.yml
+application-secrets.yml
